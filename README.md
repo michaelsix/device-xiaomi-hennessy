@@ -1,6 +1,6 @@
-# LineageOS 18.1 Device tree for Xiaomi Redmi Note 3 (HENNESSY)
+#  Android 12L Device tree for Xiaomi Redmi Note 3 (HENNESSY)
 
-This branch is device tree for building LineageOS 18.1 Rom for Xiaomi Redmi Note 3 (HENNESSY).
+This branch is device tree for building  Android 12L Rom for Xiaomi Redmi Note 3 (HENNESSY).
 
 ### Credits:
   - ibilux
@@ -8,3 +8,4 @@ This branch is device tree for building LineageOS 18.1 Rom for Xiaomi Redmi Note
   - Moyster
   - Vishalk17
   - rawmain
+  - michaelsix
