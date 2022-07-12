@@ -26,7 +26,7 @@ TARGET_2ND_CPU_VARIANT := cortex-a53
 # Build old-style zip files (required for ota updater)
 BLOCK_BASED_OTA := false
 
-#INGORE OVERIDING??
+#INGORE OVERIDING(?)
 ALLOW_MISSING_DEPENDENCIES=true
 BUILD_BROKEN_DUP_RULES := true
 
