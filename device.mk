@@ -16,9 +16,6 @@ include $(DEVICE_PATH)/props.mk
 # Overlays
 PRODUCT_ENFORCE_RRO_TARGETS := framework-res
 DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/overlay
-ifneq ($(wildcard vendor/lineage/.),)
-DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/overlay-lineage
-endif
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
