@@ -1,9 +1,9 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/aosp_hennessy.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/lineage_hennessy.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_hennessy-eng \
-    aosp_hennessy-user \
-    aosp_hennessy-userdebug
+    lineage_hennessy-eng \
+    lineage_hennessy-user \
+    lineage_hennessy-userdebug
 
 
 
