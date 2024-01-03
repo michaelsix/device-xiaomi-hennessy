@@ -1,6 +1,6 @@
-#  Lineage 18.1 (A11) Device tree for Xiaomi Redmi Note 3 (HENNESSY)
+#  AOSP/Android 11 Device tree for Xiaomi Redmi Note 3 (HENNESSY)
 
-This branch is device tree for building  Lineage 18.1 Rom for Xiaomi Redmi Note 3 (HENNESSY).
+This branch is device tree for building Android 11 Rom for Xiaomi Redmi Note 3 (HENNESSY).
 
 ### Credits:
   - ibilux
