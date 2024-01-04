@@ -32,6 +32,7 @@ PRODUCT_PACKAGES += \
     SpectrumSuper \
     init.spectrum \
     privapp-permissions-com.hq.spectrumsuper
+#TODO: optimize those for this device(change the app or whatever)
 
 # Shim symbols
 PRODUCT_PACKAGES += \
